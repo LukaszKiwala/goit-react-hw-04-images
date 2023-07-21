@@ -5,11 +5,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(242, 236, 236, 0.8);
     width: 100vw;
     height: 100vh;
 }
 
 .loader {
-    z-index: 1200;
+    z-index: 999;
 }
